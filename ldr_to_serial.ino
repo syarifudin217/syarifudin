@@ -4,7 +4,7 @@ const int pinldr2 = A1; // pin sensor ldr (peka cahaya) ruang 2
 const int pinldr3 = A2; // pin sensor ldr (peka cahaya) ruang 3
 const int Pinledldr1 = 11; // pin indicator lampu
 const int Pinledldr2 = 12; // pin indicator lampu
-const int Pinledldr3= 12; // pin indicator lampu
+const int Pinledldr3= 13; // pin indicator lampu
 
 int nilaiLDR1 = 0;
 int nilaiLDR2 = 0;
